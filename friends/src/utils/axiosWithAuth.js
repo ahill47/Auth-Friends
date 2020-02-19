@@ -9,3 +9,5 @@ export const axiosWithAuth =() => {
             Authorization: token }
     });
 };
+
+// o check if they are authentifated 
