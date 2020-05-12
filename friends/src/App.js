@@ -7,6 +7,7 @@ import PrivateRoute from "./components/PrivateRoute";
 import FriendsList from "./components/FriendsList";
 
 // no request to a sever, using json webtoken
+// ask what excalty is local storage the concept seems abstract to me 
 
 function App() {
   return (
